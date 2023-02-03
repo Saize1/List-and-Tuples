@@ -1,0 +1,11 @@
+l1=[1,9,77,33,12,0]
+l1.sort()
+print(l1)
+l1.reverse()
+print(l1)
+l1.append(55)
+print(l1)
+l1.insert(3,100)
+print(l1)
+l1.pop(5)
+print(l1)
